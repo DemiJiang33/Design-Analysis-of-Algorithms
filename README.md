@@ -1,0 +1,2 @@
+# Design-Analysis-of-Algorithms
+This presents fundamental techniques for designing efficient computer algorithms and analyzing their running times. Topics include asymptotics, solving summations and recurrences, sorting and selection, graph algorithms (depth-first and breadth-first search, minimum spanning trees, and shortest paths), algorithm design techniques (divide-and-conquer, dynamic programming, and greedy algorithms), and an introduction to NP-completeness.
